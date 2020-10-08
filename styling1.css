@@ -45,3 +45,8 @@ h2.whereto {
 	margin-left: auto;
 	color: white;
 }
+
+p.indenttournament {
+	margin-left: 5px;
+	color: red;
+}
